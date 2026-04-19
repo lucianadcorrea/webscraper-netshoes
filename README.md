@@ -28,8 +28,6 @@ docs/
  ├── terminal.png
  └── resultado.png
 
-node_modules/
-
 outputs/
  └── result.json
 
